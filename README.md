@@ -22,4 +22,4 @@
   
 + [항해 7일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%207%EC%9D%BC%EC%B0%A8.txt)
 
-+ [1주차 WIL] (https://github.com/saehwa95/daily_note/blob/main/WIL/1%EC%A3%BC%EC%B0%A8.txt)
++ [1주차 WIL](https://github.com/saehwa95/daily_note/blob/main/WIL/1%EC%A3%BC%EC%B0%A8.txt)
