@@ -29,5 +29,9 @@
 + [항해 9일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%209%EC%9D%BC%EC%B0%A8.txt)
   
 + [항해 10일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2010%EC%9D%BC%EC%B0%A8.txt)
-
+ 
 + [항해 11일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2011%EC%9D%BC%EC%B0%A8.txt)
+ 
++ [항해 12일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2012%EC%9D%BC%EC%B0%A8.txt)
+ 
++ [항해 13일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2013%EC%9D%BC%EC%B0%A8.txt)
