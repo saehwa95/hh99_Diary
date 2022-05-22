@@ -35,3 +35,7 @@
 + [항해 12일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2012%EC%9D%BC%EC%B0%A8.txt)
  
 + [항해 13일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2013%EC%9D%BC%EC%B0%A8.txt)
+
++ [항해 14일차]
+
++ [2주차 WIL](https://github.com/saehwa95/daily_note/blob/main/WIL/2%EC%A3%BC%EC%B0%A8.md)
