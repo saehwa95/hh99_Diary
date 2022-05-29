@@ -49,3 +49,5 @@
 + [항해 18일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2018%EC%9D%BC%EC%B0%A8.txt)
 
 + [항해 19일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2019%EC%9D%BC%EC%B0%A8.txt)
+ 
++ [3주차 WIL](https://github.com/saehwa95/daily_note/blob/main/WIL/3%EC%A3%BC%EC%B0%A8%20.md)
