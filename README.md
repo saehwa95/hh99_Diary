@@ -52,6 +52,6 @@
  
 + [항해 20일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2020%EC%9D%BC%EC%B0%A8.txt)
   
-+ [항해 21일차]
++ [항해 21일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2021%EC%9D%BC%EC%B0%A8.txt)
  
 + [3주차 WIL](https://github.com/saehwa95/daily_note/blob/main/WIL/3%EC%A3%BC%EC%B0%A8%20.md)
