@@ -70,6 +70,6 @@
 
 + [항해 28일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2028%EC%9D%BC%EC%B0%A8.txt)
 
-+ [항해 29일차]
++ [항해 29일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2029%EC%9D%BC%EC%B0%A8.txt)
 
-+ [항해 30일차]
++ [항해 30일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2030%EC%9D%BC%EC%B0%A8.txt)
