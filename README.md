@@ -77,3 +77,9 @@
 + [항해 30일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2030%EC%9D%BC%EC%B0%A8.txt)
   
 + [항해 31일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2031%EC%9D%BC%EC%B0%A8.txt)
+
++ [항해 32일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2032%EC%9D%BC%EC%B0%A8.txt)
+
++ [항해 33일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2033%EC%9D%BC%EC%B0%A8.txt)
+  
++ [항해 34일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2034%EC%9D%BC%EC%B0%A8.txt)
