@@ -96,3 +96,8 @@
 
 + [항해 39일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2039%EC%9D%BC%EC%B0%A8.txt)
 
++ [항해 40일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2040%EC%9D%BC%EC%B0%A8.txt)
+
++ [항해 41일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2041%EC%9D%BC%EC%B0%A8.txt)
+
++ [항해 42일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2042%EC%9D%BC%EC%B0%A8.txt)
