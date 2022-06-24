@@ -70,10 +70,10 @@
 
 + [항해 28일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2028%EC%9D%BC%EC%B0%A8.txt)
 
-+ [항해 29일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2029%EC%9D%BC%EC%B0%A8.txt)
-  
 + [4주차 WIL](https://github.com/saehwa95/daily_note/blob/main/WIL/4%EC%A3%BC%EC%B0%A8.md)
 
++ [항해 29일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2029%EC%9D%BC%EC%B0%A8.txt)
+  
 + [항해 30일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2030%EC%9D%BC%EC%B0%A8.txt)
   
 + [항해 31일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2031%EC%9D%BC%EC%B0%A8.txt)
@@ -101,6 +101,8 @@
 + [항해 41일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2041%EC%9D%BC%EC%B0%A8.txt)
 
 + [항해 42일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2042%EC%9D%BC%EC%B0%A8.txt)
+
++ [6주차 WIL](https://github.com/saehwa95/daily_note/blob/main/WIL/6%EC%A3%BC%EC%B0%A8.md)
 
 + [항해 43일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2043%EC%9D%BC%EC%B0%A8.txt)
 
