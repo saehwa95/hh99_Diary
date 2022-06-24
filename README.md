@@ -108,4 +108,8 @@
 
 + [항해 45일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2045%EC%9D%BC%EC%B0%A8.txt)
 
++ [항해 46일차](https://github.com/saehwa95/daily_note/blob/main/Diary/%ED%95%AD%ED%95%B4%2046%EC%9D%BC%EC%B0%A8.txt)
+
++ [항해 47일차]
+
 
